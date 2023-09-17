@@ -6,7 +6,7 @@ This project demonstrates the use of transfer learning with the ResNet-50 archit
 
 ## Dataset
 
-We used the [Flowers Recognition dataset], which contains labeled images of flowers in various categories. In this project, we focused on three classes: rose, daisy, and dandelion. The dataset is divided into training and validation sets.
+We used the [Flowers Recognition dataset](https://drive.google.com/file/d/1KsH3KoPzIKZDGh5ZYjlmcRPsNBl9nQtb/view?usp=sharing), which contains labeled images of flowers in various categories. In this project, we focused on three classes: rose, daisy, and dandelion. The dataset is divided into training and validation sets.
 
 ## Prerequisites
 
