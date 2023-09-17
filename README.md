@@ -1,7 +1,5 @@
 # Keras ResNet-50 Transfer Learning for Flower Classification
 
-![Flowers](![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.tensorflow.org%2Fstatic%2Fhub%2Ftutorials%2Fimage_feature_vector_files%2Foutput_1friUvN6kPYM_0.png&tbnid=GZtVmHOpNd4LdM&vet=12ahUKEwjW8e7q97CBAxWKfWwGHZVvBOkQMygCegQIARBc..i&imgrefurl=https%3A%2F%2Fwww.tensorflow.org%2Fhub%2Ftutorials%2Fimage_feature_vector&docid=4bb4JrIZUjz4tM&w=1182&h=700&q=flowers%20classification%20images%20rose%20daisy%20deandlion&ved=2ahUKEwjW8e7q97CBAxWKfWwGHZVvBOkQMygCegQIARBc)
-
 ## Overview
 
 This project demonstrates the use of transfer learning with the ResNet-50 architecture in Keras to classify images of three different types of flowers: rose, daisy, and dandelion. Transfer learning allows us to leverage a pre-trained neural network to solve a similar problem efficiently.
