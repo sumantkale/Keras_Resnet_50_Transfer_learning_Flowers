@@ -1,7 +1,6 @@
 # Keras ResNet-50 Transfer Learning for Flower Classification
 
-![Flowers](![image](https://github.com/sumantkale/Keras_Resnet_50_Transfer_learning_Flowers/assets/129871706/d7cb9159-878f-402e-872f-dcb9b7338272)
-)
+![Flowers](![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.tensorflow.org%2Fstatic%2Fhub%2Ftutorials%2Fimage_feature_vector_files%2Foutput_1friUvN6kPYM_0.png&tbnid=GZtVmHOpNd4LdM&vet=12ahUKEwjW8e7q97CBAxWKfWwGHZVvBOkQMygCegQIARBc..i&imgrefurl=https%3A%2F%2Fwww.tensorflow.org%2Fhub%2Ftutorials%2Fimage_feature_vector&docid=4bb4JrIZUjz4tM&w=1182&h=700&q=flowers%20classification%20images%20rose%20daisy%20deandlion&ved=2ahUKEwjW8e7q97CBAxWKfWwGHZVvBOkQMygCegQIARBc)
 
 ## Overview
 
